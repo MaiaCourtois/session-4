@@ -3,14 +3,16 @@
 }
 
 html, body {
-	margin: 0;
+	margin: 0;font-family: 'Source Sans Pro', sans-serif;
 }
 
-header, footer {
+header, footer { background-color:#6A0888; 
+	color:white;
+
 
 }
 
-.centered {
+.centered {margin:auto; width: 60%; padding-top:15px; padding-bottom: 15px;
 
 }
 
@@ -31,7 +33,7 @@ ul li {
 	width: 50%;
 }
 
-main {
+main { margin:auto; width: 50%; padding-top:15px; padding-bottom: 15px;
 
 }
 
@@ -39,11 +41,11 @@ section {
 
 }
 
-h2 {
+h2 {color: purple; border-bottom: 1px solid purple; 
 
 }
 
-h3 {
+h3 {color: purple;
 
 }
 
@@ -55,7 +57,7 @@ p {
 
 }
 
-.object {
+.object {color: purple;
 
 }
 
